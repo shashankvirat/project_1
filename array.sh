@@ -1,5 +1,6 @@
-#!/bin/bash
+#!/bin/bash  
 for i in 5,100,200
 do
+	echo "test"
 	echo $i
 done
