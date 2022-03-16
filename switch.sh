@@ -11,3 +11,4 @@ case $var in
 		*) echo "the value is othere that 1,2,abc"
 		;;
 esac
+sharath/shashank/arun
